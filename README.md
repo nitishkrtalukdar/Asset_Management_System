@@ -37,12 +37,19 @@ File Structure
 
 asset-management-system 
 │── finance.py         # Handles fetching asset prices
+
 │── portfolio.py       # Manages adding, viewing, and selling assets
+
 │── gui.py             # Contains the Tkinter-based GUI
+
 │── utils.py           # Helper functions (e.g., placeholders for inputs)
+
 │── main.py            # Entry point for the application
+
 │── README.md          # Project documentation
+
 │── .gitignore         # Ignore unnecessary files like __pycache__
+
 ```
 
 Contributing
