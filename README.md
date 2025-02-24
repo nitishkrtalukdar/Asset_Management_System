@@ -35,7 +35,7 @@ python main.py
 
 File Structure
 
-asset-management-system/
+asset-management-system 
 │── finance.py         # Handles fetching asset prices
 │── portfolio.py       # Manages adding, viewing, and selling assets
 │── gui.py             # Contains the Tkinter-based GUI
